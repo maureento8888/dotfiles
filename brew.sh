@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Install command-line tools/GUI apps using Homebrew
 
 # Install Homebrew
@@ -20,3 +19,5 @@ brew cask install google-chrome
 brew cask install virtualbox
 brew cask install visual-studio-code
 brew cask install npm
+brew cask install flux
+brew cask install ecosia
