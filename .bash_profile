@@ -2,14 +2,17 @@
 # Inspired by Corey Schafer and his videos on "Customizing Your Terminal"
 
 # prompt user color customizations
-light_blue=$(tput setaf 117);
+blue=$(tput setaf 117);
 white=$(tput setaf 15);
-bold=$(tput bold);
-end_custom=$(tput sgr0);
+# bold=$(tput bold); # uncomment if you want bolded font
+green=$(tput setaf 120);
+end_custom=$(tput sgr0); # end coloring
 
-PS1="\[${bold}\]";
-PS1+="\[${light_blue}\]\u";
-PS1+="\[${white}\]@\h";
+PS1="\n";
+# PS1="\[${bold}\]";
+PS1+="\[${blue}\]\u"; # baby blue
+PS1+="\[${white}\]@"; # plain white
+PS1+="\[${green}\]\h"; # caterpillar green
 PS1+="\[${end_custom}\]\$ ";
 export PS1;
 
