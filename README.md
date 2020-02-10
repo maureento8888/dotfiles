@@ -21,4 +21,4 @@ MIT
 ## Credits & Inspiration
 - Corey M. Schafer for your amazing Youtube videos
 - @mathiasbynens: https://github.com/mathiasbynens/dotfiles
-- Lars Kappert: https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789
+- For a general coverage of bash customization, see Lars Kappert's Medium article: https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789
