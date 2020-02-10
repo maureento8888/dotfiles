@@ -1,5 +1,5 @@
 # Setting bash_profile customizations
-# Insspired by Corey Schafer and his videos on "Customizing Your Terminal"
+# Inspired by Corey Schafer and his videos on "Customizing Your Terminal"
 
 # prompt user color customizations
 light_blue=$(tput setaf 117);
