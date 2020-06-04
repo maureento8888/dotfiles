@@ -16,6 +16,7 @@ These are my personalized dotfiles so do download if you love it! Feel free to `
 
 ### Note
 - Some developers argue not to fork dotfiles: https://www.anishathalye.com/2014/08/03/managing-your-dotfiles/
+- My customizations are very simple but in case if you come across any cool dotfiles, be wary of copying them if you do not know what they do!
 
 ## License:
 MIT
